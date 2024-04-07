@@ -1,9 +1,9 @@
 ```markdown
-# Employee Management App
+Employee Management App
 
 Employee Management App is a Flutter application that allows users to perform CRUD operations on employee data by interacting with a RESTful API. The app provides features such as displaying a list of employees, viewing employee details, searching for employees, and performing add, update, and delete operations.
 
-## Features
+Features
 
 - **Splash Screen**: Display a splash screen upon app launch that transitions to the main screen after 3 seconds.
 - **Main Screen**: Display a list of employees with alphabetical scrolling for quick navigation.
@@ -13,15 +13,15 @@ Employee Management App is a Flutter application that allows users to perform CR
 - **Navigation**: Allow users to navigate back to the list screen using the back button.
 - **UI Design**: Prioritize functionality over aesthetics with a simple black and white UI.
 
-## API Integration
+API Integration
 
 The app interacts with a RESTful API hosted at [Dummy Rest API](https://dummy.restapiexample.com/) for fetching and manipulating employee data. Ensure to review all API details before implementation.
 
-## Screenshots
+Screenshots
 
 Include screenshots of your app here.
 
-## Installation
+Installation
 
 To run the Employee Management App locally, follow these steps:
 
@@ -45,7 +45,7 @@ To run the Employee Management App locally, follow these steps:
    flutter run
    ```
 
-## Contributing
+Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
 
