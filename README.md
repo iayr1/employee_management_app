@@ -18,7 +18,7 @@ The app interacts with a RESTful API hosted at [Dummy Rest API](https://dummy.re
 
 ## Screenshots
 
-Include screenshots of your app here.
+
 
 ## Installation
 
@@ -48,7 +48,3 @@ To run the Employee Management App locally, follow these steps:
 Contributing
 
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
-
-
-
-Replace `iayr1` in the installation section with your GitHub username. You can further customize this README.md file according to your project requirements and preferences.
