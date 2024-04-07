@@ -48,7 +48,7 @@ class _MainScreenState extends State<MainScreen> {
           isLoading = false;
         });
         return;
-      } on DioError catch (e) {
+      } on DioException catch (e) {
         if (e.response?.statusCode == 429) {
           // If status code is 429 (Too Many Requests), retry with exponential backoff
           await Future.delayed(Duration(milliseconds: retryDelay));
@@ -71,7 +71,6 @@ class _MainScreenState extends State<MainScreen> {
         return;
       }
     }
-    // Max retry count reached, show error message
     setState(() {
       isLoading = false;
       error = 'Max retry count reached. Unable to fetch employees.';
