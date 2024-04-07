@@ -17,8 +17,11 @@ Employee Management App is a Flutter application that allows users to perform CR
 The app interacts with a RESTful API hosted at [Dummy Rest API](https://dummy.restapiexample.com/) for fetching and manipulating employee data. Ensure to review all API details before implementation.
 
 ## Screenshots
-
-
+![Screenshot5](https://github.com/iayr1/employee_management_app/assets/98678646/238e3b4d-448a-4953-aa89-35e3de6b2ae5)
+![Screenshot4](https://github.com/iayr1/employee_management_app/assets/98678646/ed36cabf-4cbb-442c-ba63-0c74a2c6c052)
+![Screenshot3](https://github.com/iayr1/employee_management_app/assets/98678646/9427407d-9a5a-4592-903d-539cf01e9506)
+![Screenshot2](https://github.com/iayr1/employee_management_app/assets/98678646/c4abc5db-d7fa-4331-961d-71f356409b0f)
+![screenshot1](https://github.com/iayr1/employee_management_app/assets/98678646/6068334d-37a7-453e-8060-930b3b451af4)
 
 ## Installation
 
