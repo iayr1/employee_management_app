@@ -26,8 +26,9 @@ Installation
 To run the Employee Management App locally, follow these steps:
 
 1. Clone the repository:
+
    ```bash
-   git clone https://github.com/iayr1/employee_management_app.git
+   git clone https://github.com/<your_github_username>/employee_management_app.git
    ```
 
 2. Navigate to the project directory:
